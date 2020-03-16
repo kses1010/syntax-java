@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8dd8634a-a91b-4868-b6a3-637fe53cc694" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YmswBDaivMtBN2SDQrt5iz2lOl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/documents/java-qna" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="syntax.chapter8.page446" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.String4">
+    <configuration name="CardToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page454.CardToString" />
+      <module name="syntax-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.chapter9.page454.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashCode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page453.HashCode1" />
+      <module name="syntax-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.chapter9.page453.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShallowDeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page460.ShallowDeepCopy" />
+      <module name="syntax-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.chapter9.page460.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page466.String1" />
+      <module name="syntax-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.chapter9.page466.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page472.String4" />
+      <module name="syntax-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="syntax.chapter9.page472.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.String4" />
+        <item itemvalue="Application.String1" />
+        <item itemvalue="Application.ShallowDeepCopy" />
+        <item itemvalue="Application.CardToString" />
+        <item itemvalue="Application.HashCode1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8dd8634a-a91b-4868-b6a3-637fe53cc694" name="Default Changelist" comment="" />
+      <created>1583559339849</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583559339849</updated>
+      <workItem from="1583559343471" duration="3627000" />
+      <workItem from="1583815758448" duration="7153000" />
+      <workItem from="1583847304263" duration="4613000" />
+      <workItem from="1583924210905" duration="1008000" />
+      <workItem from="1583926353302" duration="2608000" />
+      <workItem from="1584064927484" duration="4609000" />
+      <workItem from="1584266588111" duration="2768000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="650" y="163" width="610" height="728" key="#ChainedException" timestamp="1583929072073">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="650" y="163" width="610" height="728" key="#ChainedException/0.0.1920.1053@0.0.1920.1053" timestamp="1583929072073" />
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583559996029">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1583559996029" />
+    <state x="768" y="233" width="505" height="589" key="#com.intellij.ide.util.MemberChooser" timestamp="1584069037086">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="768" y="233" width="505" height="589" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1584069037086" />
+    <state x="743" y="284" width="424" height="486" key="FileChooserDialogImpl" timestamp="1584074711884">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="743" y="284" width="424" height="486" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1584074711884" />
+    <state width="1872" height="252" key="GridCell.Tab.0.bottom" timestamp="1584274971077">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
+    <state width="1872" height="252" key="GridCell.Tab.0.center" timestamp="1584274971077">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="252" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
+    <state width="1872" height="252" key="GridCell.Tab.0.left" timestamp="1584274971077">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="252" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
+    <state width="1872" height="252" key="GridCell.Tab.0.right" timestamp="1584274971077">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state width="1872" height="252" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
+    <state x="456" y="161" width="1007" height="732" key="SettingsEditor" timestamp="1583820756527">
+      <screen x="0" y="0" width="1920" height="1053" />
+    </state>
+    <state x="456" y="161" width="1007" height="732" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1583820756527" />
+  </component>
+</project>
