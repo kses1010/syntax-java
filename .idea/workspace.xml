@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8dd8634a-a91b-4868-b6a3-637fe53cc694" name="Default Changelist" comment="" />
+    <list default="true" id="8dd8634a-a91b-4868-b6a3-637fe53cc694" name="Default Changelist" comment="자바의 정석 chapter11 + .gitignore 추가">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page950/NetWorkEx1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page953/NetWorkEx2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page957/NetWorkEx4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page961/TcpIpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page961/TcpIpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page978/UdpClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/syntax/chapter16/page978/UdpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syntax-java/META-INF/syntax-java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/syntax-java/syntax/chapter9/page454/CardToString.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/syntax-java/syntax/chapter9/page454/CardToString.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,42 +22,57 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YmswBDaivMtBN2SDQrt5iz2lOl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/documents/java-qna" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/syntax/chapter13/page783" />
+    </key>
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="syntax.chapter13.page724" />
       <recent name="syntax.chapter8.page446" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.String4">
-    <configuration name="CardToString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page454.CardToString" />
+  <component name="RunManager" selected="Application.UdpServer">
+    <configuration name="NetWorkEx4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter16.page957.NetWorkEx4" />
       <module name="syntax-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.chapter9.page454.*" />
+          <option name="PATTERN" value="syntax.chapter16.page957.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashCode1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page453.HashCode1" />
+    <configuration name="TcpIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter16.page961.TcpIpClient" />
       <module name="syntax-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.chapter9.page453.*" />
+          <option name="PATTERN" value="syntax.chapter16.page961.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShallowDeepCopy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page460.ShallowDeepCopy" />
+    <configuration name="TcpIpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter16.page961.TcpIpServer" />
       <module name="syntax-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.chapter9.page460.*" />
+          <option name="PATTERN" value="syntax.chapter16.page961.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page466.String1" />
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter16.page978.UdpClient" />
       <module name="syntax-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.chapter9.page466.*" />
+          <option name="PATTERN" value="syntax.chapter16.page978.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="String4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="syntax.chapter9.page472.String4" />
+    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="syntax.chapter16.page978.UdpServer" />
       <module name="syntax-java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="syntax.chapter9.page472.*" />
+          <option name="PATTERN" value="syntax.chapter16.page978.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.String4" />
-        <item itemvalue="Application.String1" />
-        <item itemvalue="Application.ShallowDeepCopy" />
-        <item itemvalue="Application.CardToString" />
-        <item itemvalue="Application.HashCode1" />
+        <item itemvalue="Application.UdpClient" />
+        <item itemvalue="Application.UdpServer" />
+        <item itemvalue="Application.TcpIpClient" />
+        <item itemvalue="Application.TcpIpServer" />
+        <item itemvalue="Application.NetWorkEx4" />
       </list>
     </recent_temporary>
   </component>
@@ -132,48 +159,151 @@
       <workItem from="1583926353302" duration="2608000" />
       <workItem from="1584064927484" duration="4609000" />
       <workItem from="1584266588111" duration="2768000" />
+      <workItem from="1594186148698" duration="319000" />
+      <workItem from="1594186622953" duration="4598000" />
+      <workItem from="1594259488418" duration="25000" />
+      <workItem from="1594270083848" duration="9818000" />
+      <workItem from="1594445342967" duration="18000" />
+      <workItem from="1594454772089" duration="502000" />
+      <workItem from="1594607844135" duration="1572000" />
+      <workItem from="1594616929672" duration="1500000" />
+      <workItem from="1594619922875" duration="6490000" />
+      <workItem from="1594638631353" duration="87000" />
+      <workItem from="1594692623116" duration="4768000" />
+      <workItem from="1594723988146" duration="6807000" />
+      <workItem from="1594779679689" duration="126000" />
+      <workItem from="1594783274662" duration="15687000" />
     </task>
+    <task id="LOCAL-00001" summary="자바의 정석 chapter11 + .gitignore 추가">
+      <created>1594195285099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594195285100</updated>
+    </task>
+    <task id="LOCAL-00002" summary="자바의 정석 chapter11 컬렉션 프레임워크">
+      <created>1594291506104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1594291506104</updated>
+    </task>
+    <task id="LOCAL-00003" summary="자바의 정석 chapter12 지네릭스, Enum, 애너테이션">
+      <created>1594623358319</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1594623358319</updated>
+    </task>
+    <task id="LOCAL-00004" summary="자바의 정석 chapter13 쓰레드">
+      <created>1594779765019</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594779765019</updated>
+    </task>
+    <task id="LOCAL-00005" summary="자바의 정석 chapter14 람다와 스트림">
+      <created>1594897099884</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594897099884</updated>
+    </task>
+    <task id="LOCAL-00006" summary="자바의 정석 chapter15 입출력">
+      <created>1594897130115</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1594897130115</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="SHOW_UNVERSIONED_FILES_WHILE_COMMIT" value="false" />
+    <MESSAGE value="자바의 정석 chapter11 + .gitignore 추가" />
+    <MESSAGE value="자바의 정석 chapter11 컬렉션 프레임워크" />
+    <MESSAGE value="자바의 정석 chapter12 지네릭스, Enum, 애너테이션" />
+    <MESSAGE value="자바의 정석 chapter13 쓰레드" />
+    <MESSAGE value="자바의 정석 chapter14 람다와 스트림" />
+    <MESSAGE value="자바의 정석 chapter15 입출력" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바의 정석 chapter15 입출력" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="650" y="163" width="610" height="728" key="#ChainedException" timestamp="1583929072073">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="580" y="208" key="#com.intellij.ide.util.MemberChooser" timestamp="1594880987696">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="650" y="163" width="610" height="728" key="#ChainedException/0.0.1920.1053@0.0.1920.1053" timestamp="1583929072073" />
-    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583559996029">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="-1147" y="158" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594807802242" />
+    <state x="-1147" y="250" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594726077896" />
+    <state x="580" y="208" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1594880987696" />
+    <state x="-1197" y="433" width="474" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1594285616935">
+      <screen x="-1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="418" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1053@0.0.1920.1053" timestamp="1583559996029" />
-    <state x="768" y="233" width="505" height="589" key="#com.intellij.ide.util.MemberChooser" timestamp="1584069037086">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="-1197" y="433" width="474" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594285616935" />
+    <state x="410" y="23" width="825" height="750" key="CommitChangelistDialog2" timestamp="1594897129971">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="768" y="233" width="505" height="589" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1053@0.0.1920.1053" timestamp="1584069037086" />
-    <state x="743" y="284" width="424" height="486" key="FileChooserDialogImpl" timestamp="1584074711884">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="-1373" y="-64" key="CommitChangelistDialog2/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594779764712" />
+    <state x="410" y="0" width="825" height="900" key="CommitChangelistDialog2/0.0.1440.900/-1920.-92.1920.1080@0.0.1440.900" timestamp="1594779694345" />
+    <state x="-1373" y="28" key="CommitChangelistDialog2/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594291505973" />
+    <state x="410" y="23" width="825" height="750" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1594897129971" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom" timestamp="1594898070780">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="743" y="284" width="424" height="486" key="FileChooserDialogImpl/0.0.1920.1053@0.0.1920.1053" timestamp="1584074711884" />
-    <state width="1872" height="252" key="GridCell.Tab.0.bottom" timestamp="1584274971077">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="371" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594808054576" />
+    <state width="1878" height="299" key="GridCell.Tab.0.bottom/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594730775505" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1594189016228" />
+    <state width="1398" height="211" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1594898070780" />
+    <state width="1878" height="300" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594630301299" />
+    <state width="1878" height="299" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594726796564" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center" timestamp="1594898070779">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1872" height="252" key="GridCell.Tab.0.bottom/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
-    <state width="1872" height="252" key="GridCell.Tab.0.center" timestamp="1584274971077">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="371" key="GridCell.Tab.0.center/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594808054574" />
+    <state width="1878" height="299" key="GridCell.Tab.0.center/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594730775503" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1594189016226" />
+    <state width="1398" height="211" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1594898070779" />
+    <state width="1878" height="300" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594630301297" />
+    <state width="1878" height="299" key="GridCell.Tab.0.center/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594726796563" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left" timestamp="1594898070778">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1872" height="252" key="GridCell.Tab.0.center/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
-    <state width="1872" height="252" key="GridCell.Tab.0.left" timestamp="1584274971077">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="371" key="GridCell.Tab.0.left/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594808054573" />
+    <state width="1878" height="299" key="GridCell.Tab.0.left/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594730775502" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1594189016225" />
+    <state width="1398" height="211" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1594898070778" />
+    <state width="1878" height="300" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594630301297" />
+    <state width="1878" height="299" key="GridCell.Tab.0.left/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594726796562" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right" timestamp="1594898070779">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1872" height="252" key="GridCell.Tab.0.left/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
-    <state width="1872" height="252" key="GridCell.Tab.0.right" timestamp="1584274971077">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state width="1878" height="371" key="GridCell.Tab.0.right/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594808054575" />
+    <state width="1878" height="299" key="GridCell.Tab.0.right/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594730775504" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.0.1440.900/1440.0.1920.1080@1440.0.1920.1080" timestamp="1594189016227" />
+    <state width="1398" height="211" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1594898070779" />
+    <state width="1878" height="300" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594630301298" />
+    <state width="1878" height="299" key="GridCell.Tab.0.right/0.23.1440.877/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594726796563" />
+    <state x="-1360" y="184" key="Vcs.Push.Dialog.v2" timestamp="1594779767143">
+      <screen x="-1920" y="-92" width="1920" height="1080" />
     </state>
-    <state width="1872" height="252" key="GridCell.Tab.0.right/0.0.1920.1053@0.0.1920.1053" timestamp="1584274971077" />
-    <state x="456" y="161" width="1007" height="732" key="SettingsEditor" timestamp="1583820756527">
-      <screen x="0" y="0" width="1920" height="1053" />
+    <state x="-1360" y="184" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594779767143" />
+    <state x="-1360" y="276" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594291507688" />
+    <state x="-1258" y="13" width="596" height="870" key="find.popup" timestamp="1594788537190">
+      <screen x="-1920" y="-92" width="1920" height="1080" />
     </state>
-    <state x="456" y="161" width="1007" height="732" key="SettingsEditor/0.0.1920.1053@0.0.1920.1053" timestamp="1583820756527" />
+    <state x="-1258" y="13" width="596" height="870" key="find.popup/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594788537190" />
+    <state x="-1566" y="25" key="new project wizard" timestamp="1594638717267">
+      <screen x="-1920" y="-92" width="1920" height="1080" />
+    </state>
+    <state x="-1566" y="25" key="new project wizard/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594638717267" />
+    <state x="469" y="201" width="503" height="564" key="search.everywhere.popup" timestamp="1594897157920">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="-1295" y="149" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-1920.-92.1920.1080@-1920.-92.1920.1080" timestamp="1594626500145" />
+    <state x="-1295" y="241" key="search.everywhere.popup/0.0.1440.900/-1920.0.1920.1080@-1920.0.1920.1080" timestamp="1594275768080" />
+    <state x="469" y="201" width="503" height="564" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1594897157920" />
   </component>
 </project>
